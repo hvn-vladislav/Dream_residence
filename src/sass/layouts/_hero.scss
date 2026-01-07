@@ -25,7 +25,7 @@
 
   @include laptop {
     padding: 152px 0 232px;
-    background-image: url("../images/bg/bg.webp");
+    background-image: url("../src/images/bg/bg.webp");
     background-size: 60%;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -208,7 +208,7 @@
       -webkit-appearance: none;
       -moz-appearance: none;
 
-      background: url(".././public/icons/arrow.svg");
+      background: url("../public/icons/arrow.svg");
       background-repeat: no-repeat;
       background-position: right 12px center;
       background-size: 16px 9px;
